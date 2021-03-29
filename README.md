@@ -21,3 +21,5 @@ Arithmetic operations that we are supporting are:
 ```cd ArithmeticOperations/src```<br>
 ```javac com/arithmeticOperations/ArithmeticOperations.java```<br>
 ```java com/arithmeticOperations/ArithmeticOperations```<br>
+### Loom video link of how to run the application
+https://www.loom.com/share/3b71076e38ff48f38ee4af4ce0d52c37
